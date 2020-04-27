@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Lobster', cursive;
-    color: red;
+    color: blue;
     
 }
 
@@ -29,3 +29,16 @@ img {
      text-align: center;
      background: grey;
  }
+
+ ul {
+    list-style-type: none;
+}
+li{
+    margin: 2 rem;
+    letter-spacing: 6px;
+    text-decoration: none;
+    padding: 6 rem;
+}
+    a{
+    color: blue;
+}
